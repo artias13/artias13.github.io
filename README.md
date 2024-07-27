@@ -1,4 +1,4 @@
-# Developer & Cybersecurity researcher
+# Full Stack Developer
 
 #### Technical Skills: Python, TypeScript, FastAPI, AsyncIO, SQL/NoSQL, Redis, Nginx, Docker, CI/CD
 
@@ -23,23 +23,23 @@
 - Maintained an investment advisors website built on WordPress. Built a pipeline for backups. Implemented new funnels.
 
 ## Projects
-### [YouKnow](github.com/AcademAI/youknow)
+### [YouKnow](https://github.com/AcademAI/youknow)
 
 LLM-app to generate personalized educational courses developed as part of the MIPT&Sber Phystech Gigachat Challenge hackathon.
 
-### [Drone On-board Architecture](github.com/artias13/cyberimmune2023_mi6)
+### [Drone On-board Architecture](https://github.com/artias13/cyberimmune2023_mi6)
 
 Cyber-attack resistant architecture of on-board support for drone inspectors developed as part of the Kaspersky Cyberimmune Development hackathon 2.0.
 
-### [RSS-GPT Bot](github.com/AcademAI/rss_gpt_telegram)
+### [RSS-GPT Bot](https://github.com/AcademAI/rss_gpt_telegram)
 
 Telegram bot for RSS feed parsing and processing using GPT in order to automatically generate unique content.
 
-### [GPT-TG-Comment Bot](github.com/AcademAI/GPTCommenter4Telegram)
+### [GPT-TG-Comment Bot](https://github.com/AcademAI/GPTCommenter4Telegram)
 
 Telegram bot to generate and write human-like comments in channels using GPT.
 
-### [Cloud Storage](github.com/artias13/Cloud)
+### [Cloud Storage](https://github.com/artias13/Cloud)
 
 Cloud storage on MERN stack, used node.js as a platform, wrote server side using Express with REST routes, used React with Redux for state management.
 

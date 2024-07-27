@@ -1,5 +1,5 @@
-title: artias13
+#title: 
 logo: /img/headshot_circle.png
-description: Full Stack Developer & Cybersecurity Researcher
-show_downloads: true
+#description: 
+show_downloads: false
 theme: jekyll-theme-minimal
