@@ -3,8 +3,8 @@
 #### Technical Skills: Python, TypeScript, FastAPI, AsyncIO, SQL/NoSQL, Redis, Nginx, Docker, CI/CD
 
 ## Education							       		
-- M.S., Network & Information Security | Chongqing University of Posts and Telecommunications (_2024 - 2027_)	 			        		
-- B.S., Information systems and technologies | Ukhta State Technical University (_2020 - 2024_)
+- M.S., Information Security | CQUPT (_2024 - 2027_)	 			        		
+- B.S., Information technologies | USTU (_2020 - 2024_)
 
 ## Work Experience
 **Full Stack Developer @ AcademAI.ru (_August 2023 - August 2024_)**
