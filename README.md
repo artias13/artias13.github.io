@@ -37,16 +37,15 @@
 | GPT-TG-Comment Bot          | Telegram bot to generate human-like comments in channels using GPT | Python, Telegram API, GPT                                                      | https://github.com/AcademAI/GPTCommenter4Telegram |
 | Cloud Storage               | Cloud storage system built on MERN stack                           | Node.js, Express, React, Redux                                                 | https://github.com/artias13/Cloud                 |
 
-## Hackathons, Internships, Science Conferences, etc
+## Hackathons, Internships, etc
 
-| Event | Description | Result (paper, ppt, link) | Attendance Proof |
-| ----- | ----------- | ------------------------- | ---------------- |
-
-| ITMO XIII Congress of young scientists | Attended in ITMO XIII Congress of young scientists | https://github.com/artias13/Events/blob/main/2024/itmo_kmu_2024_spring.png | https://github.com/artias13/Events/blob/main/2024/itmo_kmu_2024_spring.png |
+| Event                                  | Description                                       | Result (paper, ppt, link)                                                  | Attendance Proof                                                           |
+| -------------------------------------- | ------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| ITMO XIII Congress of young scientists | Attended ITMO's XIII Congress of young scientists | https://github.com/artias13/Events/blob/main/2024/itmo_kmu_2024_spring.png | https://github.com/artias13/Events/blob/main/2024/itmo_kmu_2024_spring.png |
 
 | Consulft-Inform 2024 Internship | Consult Inform DevOps Department 2024 Summer Internship | https://github.com/artias13/Events/blob/main/2024/internship_consultinform_2024_summer.png | https://github.com/artias13/Events/blob/main/2024/internship_consultinform_2024_summer.png |
 
-| NorthGeoEcoTech 2024 | Ukhta State Technical 25th international youth scientific conference | https://github.com/artias13/Events/blob/main/2024/SGET_2024.png | https://github.com/artias13/Events/blob/main/2024/SGET_2024.png |
+| NorthGeoEcoTech 2024 | Ukhta State Technical 25th international youth scientific conference| https://github.com/artias13/Events/blob/main/2024/SGET_2024.png | https://github.com/artias13/Events/blob/main/2024/SGET_2024.png |
 
 | Phystech Gigachat Challenge 2023 | Attended the Phystech Gigachat Challenge held by MFTI backed by Sber in Winter 2023 | https://github.com/AcademAI/youknow_mfti | https://github.com/artias13/Events/blob/main/2023/mfti_ai_hackathon_2023_winter.png |
 
@@ -58,11 +57,11 @@
 
 | SberStudent AcademAI 2022-2023 | AcademAI at the regional demo day of the North-West District of Sber Student Accelerator | https://github.com/artias13/Events/blob/main/2023/presentations/AcademAI_SberStudent_DD.pdf | https://github.com/artias13/Events/blob/main/2023/sberstudent_academai_2023_fall.png |
 
-| SberStudent 2022-2023 | Sber's Student Accelerator 2022-2023 | https://academai.ru/ | https://github.com/artias13/Events/blob/main/2023/sberstudent_2023_fall.png |
+| SberStudent 2022-2023 | Sber's Student Accelerator 2022-2023| https://academai.ru/ | https://github.com/artias13/Events/blob/main/2023/sberstudent_2023_fall.png |
 
 | CSS 2023 | Ukhta State Technical University International Scientific and Practical Conference Communications. Society. Spirituality. 2023 | https://github.com/artias13/Events/blob/main/2023/CDO_2023.png | https://github.com/artias13/Events/blob/main/2023/CDO_2023.png |
 
-| NorthGeoEcoTech 2022 | Ukhta State Technical 23rd international youth scientific conference | https://github.com/artias13/Events/blob/main/2022/SGET_2022.png | https://github.com/artias13/Events/blob/main/2022/SGET_2022.png |
+| NorthGeoEcoTech 2022 | Ukhta State Technical 23rd international youth scientific conference| https://github.com/artias13/Events/blob/main/2022/SGET_2022.png | https://github.com/artias13/Events/blob/main/2022/SGET_2022.png |
 
 ## Standalone Papers
 
