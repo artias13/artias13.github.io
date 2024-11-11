@@ -1,6 +1,6 @@
 # Full Stack Developer
 
-#### Technical Skills: Python, TypeScript, FastAPI, AsyncIO, SQL/NoSQL, Redis, Nginx, Docker, CI/CD
+#### Technical Skills: Python, TypeScript, FastAPI, Langchain, AsyncIO, SQL/NoSQL, Nginx, Docker, CI/CD
 
 ## Education
 
@@ -9,10 +9,21 @@
 
 ## Work Experience
 
-**Full Stack Developer @ AcademAI.ru (_August 2023 - August 2024_)**
+**PTStart Intern @ [Positive Technologies](https://pt-start.ptsecurity.com/) (_August 2024 - Currently_)**
 
-- Designed and developed an LLM-app to generate personalised educational content.
-- Used different technologies for front end (Next.js, TypeScript, Prisma, Auth.js) and back end (Python, Flask, AsyncIO, Redis, Langchain).
+- At the moment I am going through intensives in various areas. Dense interaction with technical team leaders and familiarization with the company's products.
+- Completed 5 modules: [Windows Basics](https://buildin.ai/share/ebf7ddd1-eb39-4646-8160-2d3a99cc0ada?code=UA1GET), [Linux Basics](https://buildin.ai/share/0647c1be-7dad-48e1-b69b-d1ba392128ab?code=UA1GET), [Network Basics](https://buildin.ai/share/121717d1-5482-4cf5-98c4-dd5029e1a7d0?code=UA1GET), [Web Basics](https://buildin.ai/share/ece76662-4454-4919-8325-28ff8447b2a1?code=UA1GET) and [DevOps](https://buildin.ai/share/076a6711-a10e-4d6c-b0ce-27e24b16589e?code=UA1GET). Watched video lectures and workshops on IT basics and effective cybersecurity.
+
+**DevOps Intern @ [Consult-Inform](https://consult-inform.com/) (_May 2024 - July 2024_)**
+
+- Wrote a script to filter JSON file structure containing client data based on two separate conditions in Python. Demonstrated skills in data parsing, filtering, and analysis.
+- Wrote a JSON configuration file for 1C:Enterprise server management, identified syntax errors and determined data exchange format.
+- Wrote a Bash script designed for file transfer using rsync. Evaluated script quality, identified areas for improvement, and proposed enhancements. Assessed error handling, input validation, security considerations, and overall efficiency. Demonstrated understanding of shell scripting best practices and ability to optimize existing code for improved reliability and performance.
+
+**Full Stack Developer @ [AcademAI](https://academai.ru) (_August 2023 - August 2024_)**
+
+- Designed and developed an [LLM-app](https://youknow.academai.ru) to generate personalised educational content.
+- Used different technologies for front end (Next.js, TypeScript, Prisma, Auth.js) and back end (Python, Flask, AsyncIO, Langchain).
 - Built a CI/CD pipeline using Github Actions with Docker containerization.
 
 **Python Developer @ High Voltage Electronic Components Plant Progress LLC (_May 2022 - August 2023_)**
@@ -27,7 +38,7 @@
 - Developed a sushi shop website for a small business in September 2021. Got to work with CMS systems and website hosting. Customers increase by 50%.
 - Maintained an investment advisors website built on WordPress. Built a pipeline for backups. Implemented new funnels.
 
-## Projects
+## Repositories & Pet-Projects
 
 | Project                                                                        | Description                                                        | Technologies                                                                   |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
