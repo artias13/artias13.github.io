@@ -26,7 +26,7 @@
 - Used different technologies for front end (Next.js, TypeScript, Prisma, Auth.js) and back end (Python, Flask, AsyncIO, Langchain).
 - Built a CI/CD pipeline using Github Actions with Docker containerization.
 
-**Python Developer @ High Voltage Electronic Components Plant Progress LLC (_May 2022 - August 2023_)**
+**Python Developer @ [High Voltage Electronic Components Plant Progress LLC](https://zvekprogress.ru/) (_May 2022 - August 2023_)**
 
 - Designed and developed a [fullstack warehouse QR-inventory system](https://github.com/AcademAI/qr_inventarization) using Python and FastAPI.
 - Analysis: LLC "Progress" personnel interviews to gather requirements and implement the solution.
@@ -40,13 +40,14 @@
 
 ## Repositories & Pet-Projects
 
-| Project                                                                        | Description                                                        | Technologies                                                                   |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| [YouKnow](https://github.com/AcademAI/youknow)                                 | LLM-app for generating personalized educational courses            | Python, Next.js, TypeScript, Prisma, Auth.js, Flask, AsyncIO, Redis, Langchain |
-| [Drone On-board Architecture](https://github.com/artias13/cyberimmune2023_mi6) | Cyber-attack resistant architecture for drone inspectors           | Various                                                                        |
-| [RSS-GPT Bot](https://github.com/AcademAI/rss_gpt_telegram)                    | Telegram bot for RSS feed parsing and processing using GPT         | Python, Telegram API, GPT                                                      |
-| [GPT-TG-Comment Bot](https://github.com/AcademAI/GPTCommenter4Telegram)        | Telegram bot to generate human-like comments in channels using GPT | Python, Telegram API, GPT                                                      |
-| [Cloud Storage](https://github.com/artias13/Cloud)                             | Cloud storage system built on MERN stack                           | Node.js, Express, React, Redux                                                 |
+| Project                                                                         | Description                                                        | Technologies                                                                   |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| [YouKnow](https://github.com/AcademAI/youknow)                                  | LLM-app for generating personalized educational courses            | Python, Next.js, TypeScript, Prisma, Auth.js, Flask, AsyncIO, Redis, Langchain |
+| [Drone On-board Architecture](https://github.com/artias13/cyberimmune2023_mi6)  | Cyber-attack resistant architecture for drone inspectors           | Various                                                                        |
+| [RSS-GPT Bot](https://github.com/AcademAI/rss_gpt_telegram)                     | Telegram bot for RSS feed parsing and processing using GPT         | Python, Telegram API, GPT                                                      |
+| [GPT-TG-Comment Bot](https://github.com/AcademAI/GPTCommenter4Telegram)         | Telegram bot to generate human-like comments in channels using GPT | Python, Telegram API, GPT                                                      |
+| [Cloud Storage](https://github.com/artias13/Cloud)                              | Cloud storage system built on MERN stack                           | Node.js, Express, React, Redux                                                 |
+| [Warehouse QR-inventory system](https://github.com/AcademAI/qr_inventarization) | Warehouse QR-inventory system built with Python and FastAPI        | Python, FastAPI                                                                |
 
 ## Hackathons, Internships, etc
 
