@@ -11,7 +11,7 @@
 
 **PTStart Intern @ [Positive Technologies](https://pt-start.ptsecurity.com/) (_August 2024 - Currently_)**
 
-- At the moment I am going through intensives in various areas. Dense interaction with technical team leaders and familiarization with the company's products.
+- Currently going through product intensives in various PT departments.
 - Completed 5 modules: [Windows Basics](https://buildin.ai/share/ebf7ddd1-eb39-4646-8160-2d3a99cc0ada?code=UA1GET), [Linux Basics](https://buildin.ai/share/0647c1be-7dad-48e1-b69b-d1ba392128ab?code=UA1GET), [Network Basics](https://buildin.ai/share/121717d1-5482-4cf5-98c4-dd5029e1a7d0?code=UA1GET), [Web Basics](https://buildin.ai/share/ece76662-4454-4919-8325-28ff8447b2a1?code=UA1GET) and [DevOps](https://buildin.ai/share/076a6711-a10e-4d6c-b0ce-27e24b16589e?code=UA1GET). Watched video lectures and workshops on IT basics and effective cybersecurity.
 
 **DevOps Intern @ [Consult-Inform](https://consult-inform.com/) (_May 2024 - July 2024_)**
@@ -28,7 +28,7 @@
 
 **Python Developer @ High Voltage Electronic Components Plant Progress LLC (_May 2022 - August 2023_)**
 
-- Designed and developed a fullstack warehouse QR-inventory system using Python and FastAPI.
+- Designed and developed a [fullstack warehouse QR-inventory system](https://github.com/AcademAI/qr_inventarization) using Python and FastAPI.
 - Analysis: LLC "Progress" personnel interviews to gather requirements and implement the solution.
 - Development: backlogging, design, code reviews, testing, debugging, deployment.
 
