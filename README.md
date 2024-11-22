@@ -50,10 +50,10 @@
 
 ## Internships
 
-| Position @ Company                                                         | Description                                             | Result (paper, ppt, link)                                                                  |
-| -------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| PTStart Intern @ [Positive Technologies](https://pt-start.ptsecurity.com/) | PTStart 2024.2 1st stage                                | https://github.com/artias13/Events/blob/main/2024/ptstart_2024.png                         |
-| DevOps Intern @ [Consult-Inform](https://consult-inform.com/)              | Consult Inform DevOps Department 2024 Summer Internship | https://github.com/artias13/Events/blob/main/2024/internship_consultinform_2024_summer.png |
+| Position @ Company                                                         | Description                                             | Result (paper, ppt, link)                                                                                 |
+| -------------------------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| PTStart Intern @ [Positive Technologies](https://pt-start.ptsecurity.com/) | PTStart 2024.2 1st stage                                | [Certificate](https://github.com/artias13/Events/blob/main/2024/ptstart_2024.png)                         |
+| DevOps Intern @ [Consult-Inform](https://consult-inform.com/)              | Consult Inform DevOps Department 2024 Summer Internship | [Certificate](https://github.com/artias13/Events/blob/main/2024/internship_consultinform_2024_summer.png) |
 
 ## Hackathons, Conferences, etc
 
