@@ -9,11 +9,6 @@
 
 ## Work Experience
 
-**PTStart Intern @ [Positive Technologies](https://pt-start.ptsecurity.com/) (_August 2024 - Currently_)**
-
-- Currently going through product intensives in various PT departments.
-- Completed 5 modules: [Windows Basics](https://buildin.ai/share/ebf7ddd1-eb39-4646-8160-2d3a99cc0ada?code=UA1GET), [Linux Basics](https://buildin.ai/share/0647c1be-7dad-48e1-b69b-d1ba392128ab?code=UA1GET), [Network Basics](https://buildin.ai/share/121717d1-5482-4cf5-98c4-dd5029e1a7d0?code=UA1GET), [Web Basics](https://buildin.ai/share/ece76662-4454-4919-8325-28ff8447b2a1?code=UA1GET) and [DevOps](https://buildin.ai/share/076a6711-a10e-4d6c-b0ce-27e24b16589e?code=UA1GET). Watched video lectures and workshops on IT basics and effective cybersecurity.
-
 **Full Stack Developer @ [AcademAI](https://academai.ru) (_August 2023 - August 2024_)**
 
 - Designed and developed an [LLM-app](https://youknow.academai.ru) to generate personalised educational content.
