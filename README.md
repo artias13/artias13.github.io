@@ -40,13 +40,13 @@
 
 ## Reports & Writeups
 
-| Report                                                                                      | Description                                                                                                                     | Result (paper, ppt, link)                                          |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [Windows Basics](https://buildin.ai/share/ebf7ddd1-eb39-4646-8160-2d3a99cc0ada?code=UA1GET) | Windows Server Fundamentals, Active Directory, AAA, Domain Services, Data Sharing and Monitoring, Domain exploitaion techniques | https://github.com/artias13/Events/blob/main/2024/ptstart_2024.png |
-| [Linux Basics](https://buildin.ai/share/0647c1be-7dad-48e1-b69b-d1ba392128ab?code=UA1GET)   | Linux Fundamentals, Linux Administration, Linux services and daemons, Linux server security                                     | https://github.com/artias13/Events/blob/main/2024/ptstart_2024.png |
-| [Network Basics](https://buildin.ai/share/121717d1-5482-4cf5-98c4-dd5029e1a7d0?code=UA1GET) | Introduction to Network technologies, OSI.L2, OSI.L3, OSI.L4, LAN Security and attacks, Upper-level Protocols                   | https://github.com/artias13/Events/blob/main/2024/ptstart_2024.png |
-| [Web Basics](https://buildin.ai/share/ece76662-4454-4919-8325-28ff8447b2a1?code=UA1GET)     | Web Recon, Web Development Basics, PHP, XSS and SQLi Vulnerabilities, Docker for Web, WAF, Patching vulnerabilities             | https://github.com/artias13/Events/blob/main/2024/ptstart_2024.png |
-| [DevOps](https://buildin.ai/share/076a6711-a10e-4d6c-b0ce-27e24b16589e?code=UA1GET)         | Python Development, Databases, Containerization, CI/CD                                                                          | https://github.com/artias13/Events/blob/main/2024/ptstart_2024.png |
+| Report                                                                                      | Description                                                                                                                     |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [Windows Basics](https://buildin.ai/share/ebf7ddd1-eb39-4646-8160-2d3a99cc0ada?code=UA1GET) | Windows Server Fundamentals, Active Directory, AAA, Domain Services, Data Sharing and Monitoring, Domain exploitaion techniques |
+| [Linux Basics](https://buildin.ai/share/0647c1be-7dad-48e1-b69b-d1ba392128ab?code=UA1GET)   | Linux Fundamentals, Linux Administration, Linux services and daemons, Linux server security                                     |
+| [Network Basics](https://buildin.ai/share/121717d1-5482-4cf5-98c4-dd5029e1a7d0?code=UA1GET) | Introduction to Network technologies, OSI.L2, OSI.L3, OSI.L4, LAN Security and attacks, Upper-level Protocols                   |
+| [Web Basics](https://buildin.ai/share/ece76662-4454-4919-8325-28ff8447b2a1?code=UA1GET)     | Web Recon, Web Development Basics, PHP, XSS and SQLi Vulnerabilities, Docker for Web, WAF, Patching vulnerabilities             |
+| [DevOps](https://buildin.ai/share/076a6711-a10e-4d6c-b0ce-27e24b16589e?code=UA1GET)         | Python Development, Databases, Containerization, CI/CD                                                                          |
 
 ## Internships
 
