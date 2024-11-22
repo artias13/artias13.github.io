@@ -21,11 +21,12 @@
 - Analysis: LLC "Progress" personnel interviews to gather requirements and implement the solution.
 - Development: backlogging, design, code reviews, testing, debugging, deployment.
 
-**Software developer @ Freelance Orders (_August 2020 - May 2022_)**
+## Internships
 
-- Designed a landing page using Figma and React in August 2020. Collaborated with UX/UI designers to create a selling page. Increase in sales by 20%.
-- Developed a sushi shop website for a small business in September 2021. Got to work with CMS systems and website hosting. Customers increase by 50%.
-- Maintained an investment advisors website built on WordPress. Built a pipeline for backups. Implemented new funnels.
+| Position @ Company                                                         | Description                                             | Result (paper, ppt, link)                                                                                 |
+| -------------------------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| PTStart Intern @ [Positive Technologies](https://pt-start.ptsecurity.com/) | PTStart 2024.2 1st stage                                | [Certificate](https://github.com/artias13/Events/blob/main/2024/ptstart_2024.png)                         |
+| DevOps Intern @ [Consult-Inform](https://consult-inform.com/)              | Consult Inform DevOps Department 2024 Summer Internship | [Certificate](https://github.com/artias13/Events/blob/main/2024/internship_consultinform_2024_summer.png) |
 
 ## Repositories & Pet-Projects
 
@@ -47,13 +48,6 @@
 | [Network Basics](https://buildin.ai/share/121717d1-5482-4cf5-98c4-dd5029e1a7d0?code=UA1GET) | Introduction to Network technologies, OSI.L2, OSI.L3, OSI.L4, LAN Security and attacks, Upper-level Protocols                   |
 | [Web Basics](https://buildin.ai/share/ece76662-4454-4919-8325-28ff8447b2a1?code=UA1GET)     | Web Recon, Web Development Basics, PHP, XSS and SQLi Vulnerabilities, Docker for Web, WAF, Patching vulnerabilities             |
 | [DevOps](https://buildin.ai/share/076a6711-a10e-4d6c-b0ce-27e24b16589e?code=UA1GET)         | Python Development, Databases, Containerization, CI/CD                                                                          |
-
-## Internships
-
-| Position @ Company                                                         | Description                                             | Result (paper, ppt, link)                                                                                 |
-| -------------------------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| PTStart Intern @ [Positive Technologies](https://pt-start.ptsecurity.com/) | PTStart 2024.2 1st stage                                | [Certificate](https://github.com/artias13/Events/blob/main/2024/ptstart_2024.png)                         |
-| DevOps Intern @ [Consult-Inform](https://consult-inform.com/)              | Consult Inform DevOps Department 2024 Summer Internship | [Certificate](https://github.com/artias13/Events/blob/main/2024/internship_consultinform_2024_summer.png) |
 
 ## Hackathons, Conferences, etc
 
