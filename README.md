@@ -1,6 +1,6 @@
-# Full Stack Developer
+# Software Engineer
 
-#### Technical Skills: Python, TypeScript, FastAPI, Langchain, AsyncIO, SQL/NoSQL, Nginx, Docker, CI/CD
+#### Technical Skills: Python, TypeScript, FastAPI, Langchain, AsyncIO, SQL/NoSQL, Nginx, Docker, CI/CD, Git
 
 ## Education
 
